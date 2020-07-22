@@ -15,3 +15,7 @@ This is the Partial Implementation of Residual Dense Network Mentioned in the Pa
 * The Residual Dense Network is used to generate 28 x 28 x1 images from 14 x 14 x 1 images and, these are then upscaled to 400 x 400 x 1 without using any alternative resizing algorithms
 
 * [Platform used to resize gifs](https://ezgif.com/resize)
+* One can use the hrimages.gif and lrimages.gif to compare the gifs produced by the code,to observe differences
+* low resolution image
+
+
