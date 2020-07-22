@@ -16,6 +16,9 @@ This is the Partial Implementation of Residual Dense Network Mentioned in the Pa
 
 * [Platform used to resize gifs](https://ezgif.com/resize)
 * One can use the hrimages.gif and lrimages.gif to compare the gifs produced by the code,to observe differences
-* low resolution image
+* low resolution images
+![](lrimages.gif)
+* High resolution images
+![](hrimages.gif)
 
 
